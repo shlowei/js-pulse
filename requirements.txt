@@ -1,0 +1,6 @@
+# js-pulse has zero external dependencies.
+# Pure Python 3.8+ standard library only.
+#
+# Used stdlib: re, json, sys, os, argparse, urllib, http, socket, ssl,
+# dataclasses, hashlib, base64, html, html.parser, concurrent.futures,
+# time, ipaddress, fnmatch, gzip, zlib, pathlib, typing

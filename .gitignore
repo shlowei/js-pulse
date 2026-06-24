@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Output
+*.output.md
+report_*.md
+findings_*.json
+
+# Saved JS bundles
+bundles/
+.cache/
+.js-pulse/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
